@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kieran Didi</h1>
 <h3 align="center">A master's student fascinated by Protein Design and ML for biology</h3>
 
-- 🔭 I’m currently studying **Computational Biology at Cambridge University**
+- 🔭 I’m currently studying [**Computational Biology at Cambridge University**](https://www.maths.cam.ac.uk/postgrad/mphil/prospective/compbio)
 
 - 🌱 I’m currently learning [**Full Stack Deep Learning**](https://fullstackdeeplearning.com/)
 
