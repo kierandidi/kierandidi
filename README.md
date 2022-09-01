@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/didikieran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="didikieran" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kieran-didi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kieran-didi" height="30" width="40" /></a>
+<a href="https://kdidi.netlify.app/" target="blank"><img align="center" src="https://github.com/kierandidi/kdidi_webpage/blob/main/assets/icons/icon-512x512.png" alt="kdidi.netlify.app" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
