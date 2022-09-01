@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Computational Biology at Cambridge University**
 
-- 🌱 I’m currently learning **Full Stack Deep Learning**
+- 🌱 I’m currently learning [**Full Stack Deep Learning**](https://fullstackdeeplearning.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kierandidi](https://github.com/kierandidi)
 
