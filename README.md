@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://kdidi.netlify.app/resume/](https://kdidi.netlify.app/resume/)
 
-- ⚡ Fun fact **I enjoy all sports in which a ball is involved!**
+- ⚡ Fun fact: **I enjoy all sports in which a ball is involved!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
