@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kieran Didi</h1>
-<h3 align="center">A master's student fascinated by Protein Design and ML for biology</h3>
+<h3 align="center">Research Scientist @NVIDIA fascinated by Protein Design and ML for biology</h3>
 
-- 🔭 I’m currently studying [**Computational Biology at Cambridge University**](https://www.maths.cam.ac.uk/postgrad/mphil/prospective/compbio)
-
-- 🌱 I’m currently learning [**Full Stack Deep Learning**](https://fullstackdeeplearning.com/)
+- 🔭 I studied [**Computational Biology at Cambridge University**](https://www.maths.cam.ac.uk/postgrad/mphil/prospective/compbio)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kierandidi](https://github.com/kierandidi)
 
@@ -11,7 +9,7 @@
 
 - 💬 Ask me about **ML for biology, proteins, cloud computing**
 
-- 📫 How to reach me **kieran.didi@gmail.com**
+- 📫 How to reach me **kieran.didi[at]gmail.com**
 
 - 📄 Know about my experiences [https://kdidi.netlify.app/resume/](https://kdidi.netlify.app/resume/)
 
