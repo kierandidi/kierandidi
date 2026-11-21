@@ -4,8 +4,4 @@ I’m a PhD student working with [Michael Bronstein at the University of Oxford]
 
 [Publications](https://kdidi.netlify.app/publications/) · [CV](https://kdidi.netlify.app/resume/) · [Blog](https://kdidi.netlify.app/blog/)
 
-- 📫 How to reach me **kieran.didi[at]gmail.com**
-
-- ⚡ Fun fact: **I enjoy all sports in which a ball is involved!**
-
 [Twitter](https://twitter.com/didikieran) · [LinkedIn](https://linkedin.com/in/kieran-didi) · [Website](https://kdidi.netlify.app/)
