@@ -1,33 +1,28 @@
-<h1 align="center">Hi 👋, I'm Kieran Didi</h1>
-<h3 align="center">Research Scientist @NVIDIA fascinated by Protein Design and ML for biology</h3>
+# Hi, I’m Kieran Didi
 
-- 🔭 I studied [**Computational Biology at Cambridge University**](https://www.maths.cam.ac.uk/postgrad/mphil/prospective/compbio)
+I’m a PhD student working with [Michael Bronstein at the University of Oxford](https://www.cs.ox.ac.uk/people/michael.bronstein/) and [David Baker at the Institute for Protein Design](https://www.bakerlab.org/). I’m also a Senior Machine Learning Scientist in [NVIDIA’s Fundamental Generative AI team](https://research.nvidia.com/labs/genair/), where I work on generative models for protein design. I’m based in Seattle, US.
 
-- 👨‍💻 All of my projects are available at [https://github.com/kierandidi](https://github.com/kierandidi)
-
-- 📝 I regularly write articles on [https://kdidi.netlify.app/](https://kdidi.netlify.app/)
-
-- 💬 Ask me about **ML for biology, proteins, cloud computing**
+[Publications](https://kdidi.netlify.app/publications/) · [CV](https://kdidi.netlify.app/resume/) · [Blog](https://kdidi.netlify.app/blog/)
 
 - 📫 How to reach me **kieran.didi[at]gmail.com**
-
-- 📄 Know about my experiences [https://kdidi.netlify.app/resume/](https://kdidi.netlify.app/resume/)
 
 - ⚡ Fun fact: **I enjoy all sports in which a ball is involved!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/didikieran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="didikieran" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kieran-didi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kieran-didi" height="30" width="40" /></a>
-<a href="https://kdidi.netlify.app/" target="blank"><img align="center" src="https://github.com/kierandidi/kdidi_webpage/blob/main/assets/icons/icon-512x512.png" alt="kdidi.netlify.app" height="40" width="40" /></a>
+<a href="https://twitter.com/didikieran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="didikieran" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kieran-didi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kieran-didi" height="30" width="40" /></a>
+<a href="https://kdidi.netlify.app/" target="_blank"><img align="center" src="https://github.com/kierandidi/kdidi_webpage/blob/main/assets/icons/icon-512x512.png" alt="kdidi.netlify.app" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="[https://www.python.org](https://www.r-project.org/)" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+
+</p>
 
 <h3 align="left">Machine Learning</h3>
 <p align="left">
